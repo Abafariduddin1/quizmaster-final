@@ -1,0 +1,10 @@
+What is the capital of Ireland?,Cork,Dublin,Kerry,Meath,2
+What is the most popular car color?,Red,Black,White,Yellow,3
+What is the largest ocean in the world?,Atlantic,Indian,Pacific,Arctic,3
+Who was the first President of the United States?,Thomas Jefferson,Abraham Lincoln,George Washington,Ryan Renolds,3
+What is the chemical symbol for gold?,Au,Fe,Ag,Pb,1
+What is the currency of Japan?,Euro,Yen,Dollar,Won,2
+Which planet is known as the "Red Planet"?,Earth,Venus,Mars,Jupiter,3
+Which river is the longest in the world?,Nile,Amazon,Mississipi,Liffey,1
+Which country is known for originating sushi?,Japan,China,Taiwan,Vietnam,1
+Which ancient civilization built the pyramids?,Americans,Greeks,Egyptians,British,3
